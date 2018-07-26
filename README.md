@@ -1,8 +1,5 @@
-#CS 104 Homework 6
-	**NAME** Will DuCharme
-	**USC ID** 1693008926
-	**EMAIL** wducharm@usc.edu
-	**INSTRUCTIONS** 
-					1. Default crawler config file is "crawlconfig.txt" 
-				    2. Default search config file is "config.txt"
-				    3. Default crawler seed file is "crawlseed.txt"
+#Search Engine
+
+Search Engine that treats files as webpages.
+
+Utilizes a crawler, webpage parser, search function, and ranking algorithm. Able to search for words and use boolean operators to narrow results. After searching, the program will present a list of webpages that are ordered by relevance to the search.
