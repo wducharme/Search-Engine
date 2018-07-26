@@ -1,0 +1,10 @@
+# My configuration file
+INDEX_FILE           =     data/crawlerout.txt
+# Here are some important parameters
+PI=3.14159  #circumference of a circle
+E=2.71828 # Base of the natural logarithm
+# The output file is given below
+OUTPUT_FILE=  data/output.txt #hwhwiw
+QUERY_FILE    =data/query.txt
+RESTART_PROBABILITY   =     0.15
+STEP_NUMBER=20
